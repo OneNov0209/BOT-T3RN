@@ -21,4 +21,4 @@ Earn BRN tokens on every swap/bridge
 git clone https://github.com/OneNov0209/Bridge-et1rn.git
 cd Bridge-et1rn
 pip install -r requirements.txt
-python t3rn.py
+python3 t3rn.py
