@@ -9,9 +9,6 @@ Earn BRN tokens on every swap/bridge
 - AUTO BRIDGE WITH RANDOM BALANCE
 - AUTO LOOP BRIDGE
 
-## Link Garapan
-- [AirdropID Foundation](https://t.me/AirdropID_Indonesia/61810)
-
 ## NOTED
 - Ambil faucet "Blast sepolia" 
 - Ambil disini : [Faucet Trade Bot](https://t.me/faucet_trade_bot)
